@@ -15,11 +15,11 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork any project.
   
-Here is a list.
-  
-![Seri's github stats](https://github-readme-stats.vercel.app/api?username=sally20921&show_icons=truek&hide=prs,issues,contribs&count_private=true)
+
 
 <i>Happy Coding!</i> 😊
+  
+
 
 </div>
 
