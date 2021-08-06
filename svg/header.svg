@@ -82,7 +82,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Hello there, &amp; CSS<br/>fellow developers </h1>
+				<h1>Hello there, <br/>fellow developers </h1>
 				<p>Seri Lee</p>
 			</div>
 		</div>
