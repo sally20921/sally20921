@@ -15,6 +15,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork any project.
   
+You can contact me anytime via email.
 
 
 <i>Happy Coding!</i> 😊
